@@ -2,8 +2,8 @@
 - Proxied Apple trial codes generator. 
 
 ## Warning!
-- This app stopped working, as iStyle ended their promotion sistem at the beginning of 2025.
-- I am realising this method only for research purposes.
+- This app stopped working, as iStyle ended their promotion system at the beginning of 2025.
+- I am releasing this method only for research purposes.
 
 <img width="1389" height="819" alt="Current version" src="https://github.com/user-attachments/assets/0df42013-aa5d-4ba5-858d-20e484dc36f3" />
 
