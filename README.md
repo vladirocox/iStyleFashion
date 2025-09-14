@@ -36,7 +36,7 @@ python3 iStyleFashion.py
 - All codes will be saved automatically in the Codes folder.
 
 ### Web
-- Adjust the ip settings in `server.py` according to your needs.
+- Adjust the ip settings in `server.py` and in the html code according to your needs.
 - Run the server and open the iStyleFashion website in your browser.
 ```
 cd iStyle-Web/API
