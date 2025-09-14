@@ -1,0 +1,4 @@
+Flask
+requests
+random-user-agent
+pyfiglet
